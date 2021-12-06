@@ -18,13 +18,15 @@ int main() {
     name[2] = "neda";
     name[3] = "taraneh";
     name[4] = "maryam";
+    name[5] = "yasman";
 
     vector<int>age;
-    age[0] = 18;
-    age[1] = 22;
-    age[2] = 16;
-    age[3] = 20;
-    age[4] = 21;
+    age[0] = 8;
+    age[1] = 7;
+    age[2] = 6;
+    age[3] = 6;
+    age[4] = 7;
+    age[5] = 7;
 
     for (int i = 0; i < name.size(); i++)
     {
